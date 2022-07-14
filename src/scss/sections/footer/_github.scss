@@ -1,0 +1,16 @@
+.footer__container__github {
+  color: $color-option-two-text;
+  text-decoration: none;
+  order: 0;
+
+  &::before {
+    display: inline-block;
+    content: '';
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+    background-image: url('../../src/images/GitHub-Mark-Light-32px.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}

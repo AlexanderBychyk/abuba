@@ -1,0 +1,25 @@
+@import "./base/variables";
+@import "./base/base";
+@import "./base/variables";
+
+@import "./sections/header/header";
+@import "./sections/header/burger-menu";
+@import "./sections/header/home-button";
+@import "./sections/header/mode-container";
+@import "./sections/header/switch";
+@import "./sections/header/navigation";
+
+@import "./sections/main/main";
+@import "./sections/main/cards-container";
+@import "./sections/main/game-button";
+@import "./sections/main/card";
+@import "./sections/main/card-word";
+
+@import "./sections/footer/footer";
+@import "./sections/footer/github";
+@import "./sections/footer/date";
+@import "./sections/footer/rsschool";
+
+@import "./sections/statistics/table";
+
+@import "./sections/popup/popup";

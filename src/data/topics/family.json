@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/family/mother.png",
+    "title": "Mother",
+    "translate": "Мама",
+    "sound": "../sounds/family/mother.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/family/father.png",
+    "title": "Father",
+    "translate": "Папа",
+    "sound": "../sounds/family/father.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/family/grandmother.png",
+    "title": "Grandmother",
+    "translate": "Бабушка",
+    "sound": "../sounds/family/grandmother.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/family/grandfather.png",
+    "title": "Grandfather",
+    "translate": "Дедушка",
+    "sound": "../sounds/family/grandfather.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/family/sister.png",
+    "title": "Sister",
+    "translate": "Сестра",
+    "sound": "../sounds/family/sister.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/family/brother.png",
+    "title": "Brother",
+    "translate": "Брат",
+    "sound": "../sounds/family/brother.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/family/baby.png",
+    "title": "Baby",
+    "translate": "Малыш",
+    "sound": "../sounds/family/baby.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/family/family.png",
+    "title": "Family",
+    "translate": "Семья",
+    "sound": "../sounds/family/family.mp3"
+  }
+]

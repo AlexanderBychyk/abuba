@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/toys/ball.png",
+    "title": "Ball",
+    "translate": "Мяч",
+    "sound": "../sounds/toys/ball.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/toys/board-game.png",
+    "title": "Board game",
+    "translate": "Настольная игра",
+    "sound": "../sounds/toys/board-game.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/toys/bricks.png",
+    "title": "Bricks",
+    "translate": "Конструктор",
+    "sound": "../sounds/toys/bricks.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/toys/doll.png",
+    "title": "Doll",
+    "translate": "Кукла",
+    "sound": "../sounds/toys/doll.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/toys/puzzle.png",
+    "title": "Puzzle",
+    "translate": "Пазлы",
+    "sound": "../sounds/toys/puzzle.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/toys/robot.png",
+    "title": "Robot",
+    "translate": "Робот",
+    "sound": "../sounds/toys/robot.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/toys/scooter.png",
+    "title": "Scooter",
+    "translate": "Самокат",
+    "sound": "../sounds/toys/scooter.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/toys/teddy.png",
+    "title": "Teddy",
+    "translate": "Плюшевый медвежонок",
+    "sound": "../sounds/toys/teddy.mp3"
+  }
+]

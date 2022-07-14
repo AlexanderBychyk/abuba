@@ -1,0 +1,14 @@
+.footer__container__rsschool {
+  background-image: url('../../src/images/rs_school.svg');
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 40px;
+  width: 110px;
+  order: 2;
+}
+
+@media (max-width: 425px) {
+  .footer__container__rsschool {
+    order: 1;
+  }
+}

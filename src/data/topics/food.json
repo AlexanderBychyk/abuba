@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/food/bread.png",
+    "title": "Bread",
+    "translate": "Хлеб",
+    "sound": "../sounds/food/bread.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/food/cheese.png",
+    "title": "Cheese",
+    "translate": "Сыр",
+    "sound": "../sounds/food/cheese.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/food/pasta.png",
+    "title": "Pasta",
+    "translate": "Макароны",
+    "sound": "../sounds/food/pasta.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/food/meat.png",
+    "title": "Meat",
+    "translate": "Мясо",
+    "sound": "../sounds/food/meat.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/food/fish.png",
+    "title": "Fish",
+    "translate": "Рыба",
+    "sound": "../sounds/food/fish.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/food/chips.png",
+    "title": "Chips",
+    "translate": "Картофель фри",
+    "sound": "../sounds/food/chips.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/food/cake.png",
+    "title": "Cake",
+    "translate": "Торт",
+    "sound": "../sounds/food/cake.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/food/rice.png",
+    "title": "Rice",
+    "translate": "Рис",
+    "sound": "../sounds/food/rice.mp3"
+  }
+]

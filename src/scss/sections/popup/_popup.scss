@@ -1,0 +1,44 @@
+.popup {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  position: fixed;
+  z-index: 10;
+}
+.popup__window {
+  padding: 0 20px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: $color-secondary;
+  color: $color-secondary-text;
+  font-size: 3rem;
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.popup__window--image {
+  margin: 10px;
+  display: block;
+  width: 30vw;
+  height: 30vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  &.--happy {
+    background-image: url('../../src/images/happy.png');
+  }
+  &.--sad {
+    background-image: url('../../src/images/sad.png');
+  }
+}
+.popup__window--info {
+  margin: 10px;
+  width: 50%;
+}

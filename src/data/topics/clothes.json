@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/clothes/dress.png",
+    "title": "Dress",
+    "translate": "Платье",
+    "sound": "../sounds/clothes/dress.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/clothes/jacket.png",
+    "title": "Jacket",
+    "translate": "Пиджак",
+    "sound": "../sounds/clothes/jacket.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/clothes/jeans.png",
+    "title": "Jeans",
+    "translate": "Джинсы",
+    "sound": "../sounds/clothes/jeans.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/clothes/shirt.png",
+    "title": "Shirt",
+    "translate": "Рубашка",
+    "sound": "../sounds/clothes/shirt.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/clothes/shoes.png",
+    "title": "Shoes",
+    "translate": "Обувь",
+    "sound": "../sounds/clothes/shoes.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/clothes/shorts.png",
+    "title": "Shorts",
+    "translate": "Шорты",
+    "sound": "../sounds/clothes/shorts.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/clothes/skirt.png",
+    "title": "Skirt",
+    "translate": "Юбка",
+    "sound": "../sounds/clothes/skirt.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/clothes/socks.png",
+    "title": "Socks",
+    "translate": "Носки",
+    "sound": "../sounds/clothes/socks.mp3"
+  }
+]

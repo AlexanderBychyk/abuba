@@ -1,0 +1,36 @@
+.main {
+  flex: 1 0 auto;
+  min-height: calc(100% - 72px);
+}
+.main__container {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+.main__container__title {
+  display: inline-block;
+  padding: 0 20px 0 20px;
+  font-size: 50px;
+  font-size: 3rem;
+  cursor: default;
+  user-select: none;
+}
+.main__container__stars {
+  display: inline-block;
+  margin: 0 10px;
+  max-width: 30vw;
+  height: 30px;
+  overflow: hidden;
+}
+.star {
+  margin-left: 5px;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background-image: url('../../src/images/star.svg');
+  &.--correct {
+    filter: invert(71%) sepia(97%) saturate(358%) hue-rotate(32deg) brightness(108%) contrast(101%);
+  }
+  &.--incorrect {
+    filter: invert(15%) sepia(85%) saturate(4305%) hue-rotate(355deg) brightness(104%) contrast(122%);
+  }
+}

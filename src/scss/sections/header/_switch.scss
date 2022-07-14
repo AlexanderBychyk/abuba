@@ -1,0 +1,42 @@
+.mode-container__switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 32px;
+}
+
+.switch__selector {
+  display: none;
+}
+
+.switch__slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: $color-primary;
+  transition: $animation-speed;
+  border-radius: 32px;
+
+  &:before {
+    position: absolute;
+    content: "";
+    height: 24px;
+    width: 24px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: $animation-speed;
+    border-radius: 34px;
+  }
+}
+
+.switch__selector:checked ~ .switch__slider {
+  background-color: $color-option-one;
+}
+
+.switch__selector:checked ~ .switch__slider:before {
+  transform: translateX(26px);
+}

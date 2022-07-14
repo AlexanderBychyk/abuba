@@ -1,0 +1,10 @@
+.footer__container__date {
+  cursor: default;
+  order: 1;
+}
+
+@media (max-width: 425px) {
+  .footer__container__date {
+    order: 2;
+  }
+}

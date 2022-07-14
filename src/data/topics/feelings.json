@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/feelings/angry.png",
+    "title": "Angry",
+    "translate": "Злой",
+    "sound": "../sounds/feelings/angry.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/feelings/bored.png",
+    "title": "Bored",
+    "translate": "Скучающий",
+    "sound": "../sounds/feelings/bored.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/feelings/happy.png",
+    "title": "Happy",
+    "translate": "Счастливый",
+    "sound": "../sounds/feelings/happy.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/feelings/hungry.png",
+    "title": "Hungry",
+    "translate": "Голодный",
+    "sound": "../sounds/feelings/hungry.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/feelings/sad.png",
+    "title": "Sad",
+    "translate": "Грустный",
+    "sound": "../sounds/feelings/sad.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/feelings/thirsty.png",
+    "title": "Thirsty",
+    "translate": "Жаждущий",
+    "sound": "../sounds/feelings/thirsty.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/feelings/upset.png",
+    "title": "Upset",
+    "translate": "Расстроенный",
+    "sound": "../sounds/feelings/upset.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/feelings/worried.png",
+    "title": "Worried",
+    "translate": "Волновался",
+    "sound": "../sounds/feelings/worried.mp3"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "imageSrc": "../images/topics/food.png",
+    "title": "Food"
+  },
+  {
+    "imageSrc": "../images/topics/family.png",
+    "title": "Family"
+  },
+  {
+    "imageSrc": "../images/topics/pets.png",
+    "title": "Pets"
+  },
+  {
+    "imageSrc": "../images/topics/feelings.png",
+    "title": "Feelings"
+  },
+  {
+    "imageSrc": "../images/topics/professions.png",
+    "title": "Professions"
+  },
+  {
+    "imageSrc": "../images/topics/colors.png",
+    "title": "Colors"
+  },
+  {
+    "imageSrc": "../images/topics/toys.png",
+    "title": "Toys"
+  },
+  {
+    "imageSrc": "../images/topics/clothes.png",
+    "title": "Clothes"
+  }
+]

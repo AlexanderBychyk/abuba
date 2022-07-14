@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/colors/black.png",
+    "title": "Black",
+    "translate": "Чёрный",
+    "sound": "../sounds/colors/black.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/colors/blue.png",
+    "title": "Blue",
+    "translate": "Голубой",
+    "sound": "../sounds/colors/blue.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/colors/green.png",
+    "title": "Green",
+    "translate": "Зелёный",
+    "sound": "../sounds/colors/green.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/colors/orange.png",
+    "title": "Orange",
+    "translate": "Оранжевый",
+    "sound": "../sounds/colors/orange.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/colors/purple.png",
+    "title": "Purple",
+    "translate": "Фиолетовый",
+    "sound": "../sounds/colors/purple.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/colors/red.png",
+    "title": "Red",
+    "translate": "Красный",
+    "sound": "../sounds/colors/red.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/colors/white.png",
+    "title": "White",
+    "translate": "Белый",
+    "sound": "../sounds/colors/white.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/colors/yellow.png",
+    "title": "Yellow",
+    "translate": "Желтый",
+    "sound": "../sounds/colors/yellow.mp3"
+  }
+]

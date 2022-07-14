@@ -1,0 +1,13 @@
+.header__container__mode-container {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0 0 0 10px;
+  cursor: default;
+  user-select: none;
+}
+.mode-container__label {
+  font-weight: 500;
+  font-size: 22px;
+}

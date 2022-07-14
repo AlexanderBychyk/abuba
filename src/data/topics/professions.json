@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/professions/firefighter.png",
+    "title": "Firefighter",
+    "translate": "Пожарный",
+    "sound": "../sounds/professions/firefighter.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/professions/doctor.png",
+    "title": "Doctor",
+    "translate": "Доктор",
+    "sound": "../sounds/professions/doctor.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/professions/actor.png",
+    "title": "Actor",
+    "translate": "Актёр",
+    "sound": "../sounds/professions/actor.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/professions/teacher.png",
+    "title": "Teacher",
+    "translate": "Учитель",
+    "sound": "../sounds/professions/teacher.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/professions/engineer.png",
+    "title": "Engineer",
+    "translate": "Инженер",
+    "sound": "../sounds/professions/engineer.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/professions/singer.png",
+    "title": "Singer",
+    "translate": "Певец",
+    "sound": "../sounds/professions/singer.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/professions/spaceman.png",
+    "title": "Spaceman",
+    "translate": "Космонавт",
+    "sound": "../sounds/professions/spaceman.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/professions/farmer.png",
+    "title": "Farmer",
+    "translate": "Фермер",
+    "sound": "../sounds/professions/farmer.mp3"
+  }
+]

@@ -1,0 +1,34 @@
+.main__container--game-button {
+  display: none;
+  margin: 0 auto 30px auto;
+  background-color: $color-option-one;
+  color: $color-option-one-text;
+  width: 250px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 0 3px 0 rgba($color: #000000, $alpha: 0.3);
+  cursor: pointer;
+  &.--mode-play {
+    display: block;
+  }
+}
+.buttons-container {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  margin: 0 auto 30px auto;
+  background-color: $color-option-one;
+  color: $color-option-one-text;
+  width: 250px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 0 3px 0 rgba($color: #000000, $alpha: 0.3);
+  cursor: pointer;
+}

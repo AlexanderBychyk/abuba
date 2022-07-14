@@ -1,0 +1,50 @@
+[
+  {
+    "imageSrc": "../images/topics/pets/cat.png",
+    "title": "Cat",
+    "translate": "Кот",
+    "sound": "../sounds/pets/cat.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/pets/dog.png",
+    "title": "Dog",
+    "translate": "Собака",
+    "sound": "../sounds/pets/dog.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/pets/hamster.png",
+    "title": "Hamster",
+    "translate": "Хомяк",
+    "sound": "../sounds/pets/hamster.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/pets/mouse.png",
+    "title": "Mouse",
+    "translate": "Мышь",
+    "sound": "../sounds/pets/mouse.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/pets/parrot.png",
+    "title": "Parrot",
+    "translate": "Попугай",
+    "sound": "../sounds/pets/parrot.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/pets/rabbit.png",
+    "title": "Rabbit",
+    "translate": "Кролик",
+    "sound": "../sounds/pets/rabbit.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/pets/snake.png",
+    "title": "Snake",
+    "translate": "Змея",
+    "sound": "../sounds/pets/snake.mp3"
+  },
+  {
+    "imageSrc": "../images/topics/pets/turtle.png",
+    "title": "Turtle",
+    "translate": "Черепаха",
+    "sound": "../sounds/pets/turtle.mp3"
+  }
+]

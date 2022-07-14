@@ -1,0 +1,30 @@
+.nav {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: $color-option-one;
+  color: $color-option-one-text;
+  top: 0;
+  left: -100%;
+  z-index: 3;
+  transition: $animation-speed;
+  &.--active {
+    left: 0;
+  } 
+} 
+.nav__list {
+  padding: 0;
+  margin: 100px auto;
+  width: 280px;
+  list-style: none;
+  font-size: 42px;
+  font-weight: 500;
+}
+.nav__list--item {
+  padding: 5px 20px;
+  cursor: pointer;
+  
+  &.--active {
+    color: $color-primary;
+  }
+}
